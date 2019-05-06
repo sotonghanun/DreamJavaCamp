@@ -1,4 +1,4 @@
-package icehs.science.chapter03;
+package dreamschool.cscourse.chapter03;
 
 public class MyVariavle {
 
